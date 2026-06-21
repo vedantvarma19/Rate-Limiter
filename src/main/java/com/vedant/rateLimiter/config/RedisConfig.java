@@ -1,4 +1,4 @@
-package com.vedant.ratelimiter.config;
+package com.vedant.rateLimiter.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

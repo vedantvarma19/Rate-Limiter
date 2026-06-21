@@ -1,4 +1,4 @@
-package com.example.rateLimiter;
+package com.vedant.rateLimiter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
