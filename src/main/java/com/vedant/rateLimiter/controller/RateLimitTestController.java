@@ -27,4 +27,17 @@ public class RateLimitTestController {
                 )
         );
     }
+    
+    @GetMapping("/api/token")
+public RateLimitResult tokenTest() {
+
+    return engine.evaluate(
+            "token_bucket",
+            new RateLimitIdentifier(
+                    "USER:1",
+                    10,
+                    60
+            )
+    );
+}
 }
