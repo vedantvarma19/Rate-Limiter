@@ -331,10 +331,10 @@ B.Tech – Information Science Engineering
 Passionate about Backend Development, Distributed Systems, and System Design.
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/vedantvarma19
 
 LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
+https://www.linkedin.com/in/vedant-varma
 
 ---
 
